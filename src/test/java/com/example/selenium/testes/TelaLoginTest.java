@@ -6,12 +6,7 @@ import org.junit.jupiter.api.Test;
 import com.example.selenium.pages.TelaDeLogin;
 import com.example.selenium.setup.InstanciarPagina;
 
-public class SeleniumTest {
-
-    /**
-     * 2- Busca
-     * 3- Busca Avançada
-     */
+public class TelaLoginTest {
 
     private InstanciarPagina pagina = new InstanciarPagina();
     private TelaDeLogin tela;
